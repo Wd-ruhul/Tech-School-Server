@@ -3,36 +3,42 @@
     "id": "01",
     "_id": "01a",
     "name": "React",
-    "img": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+    "img": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+    "info": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React.Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. "
   },
   {
     "id": "02",
     "_id": "01b",
     "name": "Java Script",
-    "img": "https://miro.medium.com/max/1400/1*UvWOnSlWP7AbbOtSVUeHMg.png"
+    "img": "https://miro.medium.com/max/1400/1*UvWOnSlWP7AbbOtSVUeHMg.png",
+    "info": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
   },
   {
     "id": "03",
     "_id": "01c",
     "name": "Machine Learning",
-    "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg"
+    "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
+    "info": ""
   },
   {
     "id": "04",
     "_id": "01d",
     "name": "Robotics",
-    "img": "https://t4.ftcdn.net/jpg/03/86/07/83/360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.jpg"
+    "img": "https://t4.ftcdn.net/jpg/03/86/07/83/360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.jpg",
+    "info": "This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way."
   },
   {
     "id": "05",
     "_id": "01e",
     "name": "Python Programming",
-    "img": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/12/5.jpg?x20752"
+    "img": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/12/5.jpg?x20752",
+    "info": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Tech School"
   },
   {
     "id": "06",
     "_id": "01f",
     "name": "App Development",
-    "img": "https://st2.depositphotos.com/4038693/7091/v/600/depositphotos_70912743-stock-illustration-app-development-concept.jpg"
+    "img": "https://st2.depositphotos.com/4038693/7091/v/600/depositphotos_70912743-stock-illustration-app-development-concept.jpg",
+    "info": "Welcome to the Complete iOS App Development Bootcamp.At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online.This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching. "
   }
 ]
