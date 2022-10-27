@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "_id": "01a",
+    "name": "React",
+    "img": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+  },
+  {
+    "id": "02",
+    "_id": "01b",
+    "name": "Java Script",
+    "img": "https://miro.medium.com/max/1400/1*UvWOnSlWP7AbbOtSVUeHMg.png"
+  },
+  {
+    "id": "03",
+    "_id": "01c",
+    "name": "Machine Learning",
+    "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg"
+  },
+  {
+    "id": "04",
+    "_id": "01d",
+    "name": "Robotics",
+    "img": "https://t4.ftcdn.net/jpg/03/86/07/83/360_F_386078374_WDOvxzHmUCsg0h3AufqbhtuWkBKz8XpU.jpg"
+  },
+  {
+    "id": "05",
+    "_id": "01e",
+    "name": "Python Programming",
+    "img": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/12/5.jpg?x20752"
+  },
+  {
+    "id": "06",
+    "_id": "01f",
+    "name": "App Development",
+    "img": "https://st2.depositphotos.com/4038693/7091/v/600/depositphotos_70912743-stock-illustration-app-development-concept.jpg"
+  }
+]
